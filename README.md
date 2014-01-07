@@ -9,3 +9,7 @@ Reference from [chef cookbook `yum::remi` v2.4.4](https://github.com/opscode-coo
 # Author
 
 Copyright (c) 2014 Aiming Inc.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aiming-cookbooks/yum-remi/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
